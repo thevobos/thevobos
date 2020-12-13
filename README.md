@@ -5,13 +5,13 @@
 
 ## PHP
 
-[![BETA](https://github-readme-stats.vercel.app/api/pin/?username=thevobos&repo=beta)](https://github.com/thevobos/beta)
-[![MONSTER FRAMEWORK](https://github-readme-stats.vercel.app/api/pin/?username=thevobos&repo=monster)](https://github.com/thevobos/monster)
-[![PHP ROUTER](https://github-readme-stats.vercel.app/api/pin/?username=thevobos&repo=fixRouter)](https://github.com/thevobos/fixRouter)
-[![MIRROR SCREEN ZERO](https://github-readme-stats.vercel.app/api/pin/?username=thevobos&repo=php-mirror-screen)](https://github.com/thevobos/php-mirror-screen)
+[![BETA](https://github-readme-stats.vercel.app/api/pin/?username=thevobos&repo=beta)](https://github.com/thevobos/beta)]
+[![MONSTER FRAMEWORK](https://github-readme-stats.vercel.app/api/pin/?username=thevobos&repo=monster)](https://github.com/thevobos/monster)]
+[![PHP ROUTER](https://github-readme-stats.vercel.app/api/pin/?username=thevobos&repo=fixRouter)](https://github.com/thevobos/fixRouter)]
+[![MIRROR SCREEN ZERO](https://github-readme-stats.vercel.app/api/pin/?username=thevobos&repo=php-mirror-screen)](https://github.com/thevobos/php-mirror-screen)]
 
 
 
 ## JAVASCRIPT
 
-[![JS NOTIFICATION](https://github-readme-stats.vercel.app/api/pin/?username=thevobos&repo=fixNotificationhttps://github.com/thevobos/fixNotification)
+[![JS NOTIFICATION](https://github-readme-stats.vercel.app/api/pin/?username=thevobos&repo=fixNotificationhttps://github.com/thevobos/fixNotification)]
