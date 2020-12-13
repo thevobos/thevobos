@@ -14,4 +14,4 @@
 
 ## JAVASCRIPT
 
-[![JS NOTIFICATION](https://github-readme-stats.vercel.app/api/pin/?username=thevobos&repo=fixNotificationhttps://github.com/thevobos/fixNotification)
+[![JS NOTIFICATION](https://github-readme-stats.vercel.app/api/pin/?username=thevobos&repo=fixNotification)](https://github.com/thevobos/fixNotification)
