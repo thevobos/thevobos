@@ -33,7 +33,7 @@ I am Cengiz AKCAN, back end developer at Vobo COMAPNY and pursuing Computer Scie
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 ## My GitHub Stats 📊
 <a href="https://github.com/thevobos">
