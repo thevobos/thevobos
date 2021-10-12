@@ -3,7 +3,7 @@
 https://raw.githubusercontent.com/paulodhiambo/paulodhiambo/master/wave.gif
 
 -->
-I am Cengiz AKCAN, back end developer at Vobo COMAPNY and pursuing Computer Science of Programming at [Çukurova University](https://cu.edu.tr).  I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Cengiz AKCAN, back end developer at Vobo COMAPNY and studied Computer Science of Programming at [Çukurova University](https://cu.edu.tr).  I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 <p align="left">
   <a href="https://github.com/thevobos">
