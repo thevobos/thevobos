@@ -12,6 +12,9 @@ I am Cengiz AKCAN, back end developer at Vobo COMAPNY and pursuing Computer Scie
   <a href="https://github.com/thevobos?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/thevobos?color=green&logo=github">
   </a>
+  <a href="https://www.instagram.com/thevobos/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/Instagram-0077B5?logo=Instagram&logoColor=white">
+  </a>
   <a href="https://www.linkedin.com/in/thevobos/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
   </a>
