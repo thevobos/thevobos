@@ -5,6 +5,8 @@ Find out more about me and feel free to contact me:
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thevobos&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=thevobos&show_icons=true&theme=radical)
+
 
 
 
