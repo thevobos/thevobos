@@ -1,7 +1,6 @@
 ## Hello!
 
-I am Cengiz AKCAN, Full-Stack Developer. I am always open to projects and innovative/destructive ideas.
-Find out more about me and feel free to contact me:
+I have been working on Software Development since 2014, I generally work on cloud and mobile based applications. I love following and experiencing new technologies. I generally prefer to use the latest technologies in my projects.
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thevobos&layout=compact&theme=radical)
