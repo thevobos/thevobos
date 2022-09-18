@@ -8,7 +8,7 @@ I have been working on Software Development since 2014, I generally work on clou
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=thevobos&show_icons=true&theme=radical" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api?username=thevobos&show_icons=true&theme=radical"  height="130px" />
 
-(<-- two spaces)
+<hr/>
 
 ## ⚡ Technologies
 
