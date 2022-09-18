@@ -3,18 +3,12 @@
 I am Cengiz AKCAN, Full-Stack Developer. I am always open to projects and innovative/destructive ideas.
 Find out more about me and feel free to contact me:
 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thevobos&layout=compact&theme=radical)
+
 <p align="left">
   <a href="https://github.com/thevobos">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=thevobos" alt="page views" />
-  </a>
-  <a href="https://github.com/thevobos?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/thevobos?color=green&logo=github">
-  </a>
-  <a href="https://www.instagram.com/thevobos/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/Instagram-000000?logo=Instagram&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/thevobos/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
   </a>
 </p>
 
