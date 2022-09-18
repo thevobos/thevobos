@@ -3,9 +3,10 @@
 I have been working on Software Development since 2014, I generally work on cloud and mobile based applications. I love following and experiencing new technologies. I generally prefer to use the latest technologies in my projects.
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thevobos&layout=compact&theme=radical | height=100)
 
-<img src="https://github-readme-stats.vercel.app/api?username=thevobos&show_icons=true&theme=radical" alt="" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github-readme-stats.vercel.app/api?username=thevobos&show_icons=true&theme=radical)"  height="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevobos&layout=compact&theme=radical" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevobos&layout=compact&theme=radical"  height="100" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=thevobos&show_icons=true&theme=radical" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api?username=thevobos&show_icons=true&theme=radical"  height="100" />
 
 
 ## ⚡ Technologies
