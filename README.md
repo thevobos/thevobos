@@ -8,9 +8,7 @@ I have been working on Software Development since 2014, I generally work on clou
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=thevobos&show_icons=true&theme=radical" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api?username=thevobos&show_icons=true&theme=radical"  height="130px" />
 
-<hr/>
-
-## ⚡ Technologies
+(<-- two spaces)
 
 ![Javascript](https://img.shields.io/badge/-Centos-black?style=flat-square&logo=Centos)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
