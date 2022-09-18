@@ -4,11 +4,7 @@ I have been working on Software Development since 2014, I generally work on clou
 
 
 
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevobos&layout=compact&theme=radical" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevobos&layout=compact&theme=radical"  height="100" /></a>
-
-
-
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevobos&layout=compact&theme=radical" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevobos&layout=compact&theme=radical"  height="100" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevobos&layout=compact&theme=radical" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevobos&layout=compact&theme=radical"  height="100" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=thevobos&show_icons=true&theme=radical" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api?username=thevobos&show_icons=true&theme=radical"  height="100" />
 
@@ -26,3 +22,4 @@ I have been working on Software Development since 2014, I generally work on clou
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+ 
