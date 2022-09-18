@@ -4,9 +4,9 @@ I have been working on Software Development since 2014, I generally work on clou
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevobos&layout=compact&theme=radical" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevobos&layout=compact&theme=radical"  height="100" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevobos&layout=compact&theme=radical" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevobos&layout=compact&theme=radical"  height="200" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=thevobos&show_icons=true&theme=radical" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api?username=thevobos&show_icons=true&theme=radical"  height="100" />
+<img src="https://github-readme-stats.vercel.app/api?username=thevobos&show_icons=true&theme=radical" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api?username=thevobos&show_icons=true&theme=radical"  height="200" />
 
 
 ## ⚡ Technologies
