@@ -1,6 +1,5 @@
 ## Hello!
 
-
 I have been working on Software Development since 2014, I generally work on cloud and mobile based applications. I love following and experiencing new technologies. I generally prefer to use the latest technologies in my projects.
 
 
