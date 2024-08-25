@@ -14,7 +14,7 @@ I have been working on Software Development since 2014, I generally work on clou
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=linux)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
-![Javascript](https://img.shields.io/badge/-Centos-black?style=flat-square&logo=Centos)
+![Javascript](https://img.shields.io/badge/-Centos-black?style=flat-square&logo=Ubuntu)
+![Javascript](https://img.shields.io/badge/-Centos-black?style=flat-square&logo=ReactNative)
 
  
